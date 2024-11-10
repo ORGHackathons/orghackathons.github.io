@@ -1,5 +1,5 @@
 # orghackathons.github.io
 
 Alguns projetos:
-<ul><li>https://orghackathons.github.io/first-health-hack.github.io/ </li></ul>
+<ul><li><a href="https://orghackathons.github.io/First-Health-Hack">First Health Hack</a> </li></ul>
 
